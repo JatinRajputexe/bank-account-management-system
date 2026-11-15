@@ -1,6 +1,7 @@
 # Bank Account Management System
 
 Mini Project 3 | Object-Oriented Programming using C++ (CIC-211)
+
 Authors: Vishnu Prasad(18914803125) & Jatin(19014803125) | Maharaja Agrasen Institute of Technology
 
 A console, menu-driven C++17 application that simulates basic banking: create accounts, deposit, withdraw
@@ -60,6 +61,6 @@ T|type|amount|balanceAfter|remark
 
 ## Mapped SDG
 
-SDG 8 (Decent Work and Economic Growth)
-SDG 9 (Industry, Innovation and Infrastructure)
+SDG 8 (Decent Work and Economic Growth),
+SDG 9 (Industry, Innovation and Infrastructure)&
 SDG 16 (Strong Institutions).
