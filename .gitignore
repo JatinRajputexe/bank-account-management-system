@@ -1,0 +1,8 @@
+# build output
+bank
+bank.exe
+*.o
+
+# runtime data created by the program
+data/accounts.txt
+data/accounts.txt.bak
